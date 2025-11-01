@@ -1,0 +1,2 @@
+# This file ensures the insights directory is tracked in git
+# Insight files (*.md) in this directory are git-ignored (personal)
